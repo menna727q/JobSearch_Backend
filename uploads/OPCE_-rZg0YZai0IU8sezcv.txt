@@ -1,0 +1,21 @@
+1- The knowledge i have at Frontend developer position: i have 2 frameworks React and angular,
+  worked with React at 3 projects 1- E-commerece 2- Soil Type detection website 3- Agent Activity
+  -->E-commerece: Fresh Cart website using React.js framework for providing products and details of it, categories and all Brands.
+   worked with angular at job portal project that basicaly was about seekers that search for a job and this project is for companies that search for applicants,
+ 
+This is my first time to join frontend internship
+
+ 2- first challenge was to handle projects in 2 days (was ERP project and HCI project) at collegue, i was frontend in 2 projects so 
+  first thing i do is to handle the important thing or the project we will delivered first, worked like 14 hours but finally 2 project
+  was great and get fullmark.
+second challenge was to handle technical issues, i deal with that by tracking the cause of the issue to solve it 
+
+3- take the risk because safe zone ensures a routine life but by taking risk i will facing new challenges that i'll learn 
+from it and gain experience.
+
+4- 
+
+5-Thank you for considering me for this opportunity, 
+ I bring a strong background in React framework as i worked on projects and have knowledge to communicate and use API's. 
+  and my passion for continuous learning and growth sets me apart. I am committed to staying updated with the latest industry trends and technologies.
+ lastly, I believe in  effectively communicating with team members.
